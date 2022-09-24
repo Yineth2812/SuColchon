@@ -1,0 +1,46 @@
+*{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bold;
+}
+
+.container{
+    display: grid;
+    padding: 0;
+}
+
+h1{
+    font-size: 200%
+
+}
+
+h1,a,p{
+    color: #7C8588 !important;
+}
+.multi{
+    padding-top:3%;
+}
+.slide{
+    margin-top:10px;
+}
+
+.slide img{
+    height: 500px;
+}
+.addi{
+    margin-top: 3px;
+}
+h3,h2{
+    color: #fff;
+}
+#footer{
+    height: 460px;
+    background-color: #333;
+}
+#footer2{
+    height: 230px;
+    background-color: #686868;
+}  
+#footer3{
+    height: 75px;
+    background-color: #333;;
+}    
